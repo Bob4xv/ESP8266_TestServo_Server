@@ -5,4 +5,6 @@ This project is to be used to evalue the performance of servo motors to control 
 
 The WeeMos controller connects to a local wifi network and presents its self as a web page.  The web page has slider controls to position the servo motors for the caps and another to control a rotary 6 position switch.
 
+Libraries required:  ESP8266WiFi and Servo.
+
 This project is still under development.
